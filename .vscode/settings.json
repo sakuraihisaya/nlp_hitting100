@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "/Users/hisayasakurai/.pyenv/versions/miniconda3-4.3.30/bin/python3",
+    "python.unitTest.pyTestArgs": [],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.promptToConfigure": false,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false
+}
